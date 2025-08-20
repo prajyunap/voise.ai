@@ -1,3 +1,6 @@
 {
+  "/_not-found/page": "app/_not-found/page.js",
+  "/api/calls/web/start/route": "app/api/calls/web/start/route.js",
+  "/api/knowledge/upload/route": "app/api/knowledge/upload/route.js",
   "/page": "app/page.js"
 }

@@ -1,11 +1,1 @@
-{
-  "version": 4,
-  "routes": {},
-  "dynamicRoutes": {},
-  "notFoundRoutes": [],
-  "preview": {
-    "previewModeId": "4dcfd71772826e96fc449add5ebd6aa5",
-    "previewModeSigningKey": "d602aecc22af0e8802d2683f64d717dc987831d1ad3056215b532c5aecfc3383",
-    "previewModeEncryptionKey": "dae30730949614c724ed736d653840978a9fc4fdd203a1a846227e368b089117"
-  }
-}
+{"version":4,"routes":{"/":{"experimentalBypassFor":[{"type":"header","key":"Next-Action"},{"type":"header","key":"content-type","value":"multipart/form-data;.*"}],"initialRevalidateSeconds":false,"srcRoute":"/","dataRoute":"/index.rsc"}},"dynamicRoutes":{},"notFoundRoutes":[],"preview":{"previewModeId":"493d49c18ad94bbcd41f7a5fa86d19c6","previewModeSigningKey":"53b083d080fa52ef4c04835a56dec9a90c40cdce81f1b75abbc10c1825cd3b13","previewModeEncryptionKey":"c5d674b4aef7d26af081edc12de199a51208780c0760d102d91b201adf94fdc7"}}
